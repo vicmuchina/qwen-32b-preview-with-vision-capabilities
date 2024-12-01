@@ -1,0 +1,197 @@
+Server bound to /tmp/cursor-91166e42-c027-4f1c-8479-0151a5dd98d9
+Extension host agent listening on /tmp/cursor-91166e42-c027-4f1c-8479-0151a5dd98d9
+
+[16:17:14] 
+
+
+
+
+[16:17:16] Extension host agent started.
+[16:17:17] [<unknown>][7809d3ce][ManagementConnection] Unknown reconnection token (never seen).
+[16:17:54] [<unknown>][497641e8][ExtensionHostConnection] New connection established.
+[16:17:54] [<unknown>][44a745c6][ManagementConnection] New connection established.
+[16:18:05] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] [<unknown>][497641e8][ExtensionHostConnection] <3811> Launched Extension Host Process.
+[16:18:06] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:06] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:14] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[16:18:16] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at M.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[16:18:17] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at M.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at M.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[16:18:17] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at M.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at M.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[16:18:17] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at M.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at M.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[16:18:17] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at M.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[16:18:24] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-2eaa79a1b14ccff5d1c78a2c358a08be16a8e5a0/server/out/vs/server/node/server.main.js:143:2869)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)

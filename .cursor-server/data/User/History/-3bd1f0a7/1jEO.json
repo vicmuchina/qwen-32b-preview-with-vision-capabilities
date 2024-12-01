@@ -1,0 +1,18 @@
+{
+    "editor.minimap.renderCharacters": false,
+    "files.autoSave": "afterDelay",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "cursor.cpp.disabledLanguages": [
+        "plaintext",
+        "markdown",
+        "scminput"
+    ],
+    "remote.SSH.remotePlatform": {
+        "ssh.lightning.ai": "linux"
+    }
+}
