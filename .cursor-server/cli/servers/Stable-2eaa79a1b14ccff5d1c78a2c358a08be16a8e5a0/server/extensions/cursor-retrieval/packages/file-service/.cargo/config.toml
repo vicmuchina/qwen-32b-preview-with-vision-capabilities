@@ -1,2 +1,0 @@
-[target.'cfg(all(feature="windows-subsystem"))']
-rustflags = ["-C", "link-args=/SUBSYSTEM:WINDOWS"]

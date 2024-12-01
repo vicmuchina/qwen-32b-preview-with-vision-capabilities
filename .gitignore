@@ -52,3 +52,10 @@ tensorboard/
 # OS specific
 .DS_Store
 Thumbs.db 
+# Additional Studio-specific files
+.cursor-server/
+.lightning_studio/
+examples/
+
+# Existing entries will remain above these new ones
+
